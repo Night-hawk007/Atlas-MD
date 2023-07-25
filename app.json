@@ -14,20 +14,20 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/FantoX001/Atlas-MD#readme",
-  "repository": "https://github.com/FantoX001/Atlas-MD.git",
+  "website": "https://github.com/Night-hawk007/Atlas-MD#readme",
+  "repository": "https://github.com/Night-hawk007/Atlas-MD.git",
   "logo": "https://graph.org/file/02abf0fd8fc2a13cc67a1.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of your bot Ex: . , / , # , & etc. Put anythong except @ (Default is -)",
+      "description": "!",
       "required": false
     },
     "SESSION_ID": {
       "description": "A random string for your bot session. Which works as an OTP to get qr code. You have to change session every time to get a new qr."
     },
     "MODS": {
-      "description": "Put any phone number without + , () and spaces \",\" Ex: 918101187835,929864781259 )",
+      "description": "2349093924119",
       "required": false
     },
     "TENOR_API_KEY": {
@@ -35,7 +35,7 @@
       "required": false
     },
     "PACKNAME": {
-      "description": "Put a sticker packname here. Default is: Atlas Bot",
+      "description": "Pig Benis",
       "required": false
     },
     "MONGODB": {
