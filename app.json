@@ -39,10 +39,10 @@
       "required": false
     },
     "MONGODB": {
-      "description": "Put Your MongoDB URL. You can create MongoDB Atlas URL for free."
+      "description": "mongodb+srv://Razhfad:Random8900@cluster0.heis8kk.mongodb.net/?retryWrites=true&w=majority"
     },
     "OPENAI_API": {
-      "description": "Put your OpenAI API key here if you want to use ChatGPT and DALL-E.",
+      "description": "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",
       "required": false
     }
   },
